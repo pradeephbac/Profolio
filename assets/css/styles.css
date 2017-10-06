@@ -547,3 +547,16 @@ iframe {
 .section-inner{
   box-shadow: 5px 5px 5px #888888;
 }
+.hobby{
+  color: white;
+  background: #479fc8;
+  font-weight: 900;
+  padding: 5px;
+  border-radius: 3px;
+}
+.tech-stack{
+  padding: 5px;
+  color: white;
+  background: #e07171;
+  border-radius: 3px;
+}
